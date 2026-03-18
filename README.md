@@ -5,9 +5,9 @@ Using Power BI and Excel
 
 This mini project aims to perform real-world retail data analysis using:
 
-     Microsoft Excel for data cleaning and transformation.
+  Microsoft Excel for data cleaning and transformation.
      
-     Power BI for interactive dashboard creation and visualization.
+  Power BI for interactive dashboard creation and visualization.
      
 The objective is to analyze sales performance, product trends, and outlet efficiency to generate actionable business insights.
 
