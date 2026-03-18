@@ -1,2 +1,2 @@
-# Mini-Project-
-Power BI and Excel
+# Blinkit Groceries Sales Analysis
+Using Power BI and Excel
